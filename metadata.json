@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast",
+  "description": "A clean, modern, and responsive Weather Forecast web application powered by the Open-Meteo API. View current conditions, 7-day outlooks, interactive trend charts, and tailored outdoor planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
